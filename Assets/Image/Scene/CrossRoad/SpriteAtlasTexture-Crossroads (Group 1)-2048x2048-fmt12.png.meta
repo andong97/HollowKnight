@@ -1,0 +1,3626 @@
+fileFormatVersion: 2
+guid: 6a8452a8fb82993489a8c75251fe1f58
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_0
+    21300002: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_1
+    21300004: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_2
+    21300006: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_3
+    21300008: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_4
+    21300010: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_5
+    21300012: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_6
+    21300014: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_7
+    21300016: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_8
+    21300018: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_9
+    21300020: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_10
+    21300022: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_11
+    21300024: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_12
+    21300026: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_13
+    21300028: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_16
+    21300030: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_17
+    21300032: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_18
+    21300034: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_19
+    21300036: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_20
+    21300038: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_21
+    21300040: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_22
+    21300042: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_23
+    21300044: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_24
+    21300046: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_25
+    21300048: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_26
+    21300050: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_27
+    21300052: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_28
+    21300054: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_29
+    21300056: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_30
+    21300058: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_31
+    21300060: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_32
+    21300062: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_33
+    21300064: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_35
+    21300066: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_36
+    21300068: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_37
+    21300070: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_38
+    21300072: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_39
+    21300074: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_40
+    21300076: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_41
+    21300078: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_42
+    21300080: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_43
+    21300082: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_44
+    21300084: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_45
+    21300086: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_46
+    21300088: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_47
+    21300090: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_48
+    21300092: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_49
+    21300094: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_50
+    21300096: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_51
+    21300098: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_52
+    21300100: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_53
+    21300102: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_54
+    21300104: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_55
+    21300106: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_56
+    21300108: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_57
+    21300110: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_58
+    21300112: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_59
+    21300114: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_60
+    21300116: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_61
+    21300118: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_62
+    21300120: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_63
+    21300122: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_64
+    21300124: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_65
+    21300126: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_66
+    21300128: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_67
+    21300130: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_68
+    21300132: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_69
+    21300134: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_70
+    21300136: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_71
+    21300138: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_72
+    21300140: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_73
+    21300142: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_74
+    21300144: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_75
+    21300146: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_76
+    21300148: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_77
+    21300150: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_78
+    21300152: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_79
+    21300154: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_81
+    21300156: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_82
+    21300158: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_83
+    21300160: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_84
+    21300162: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_85
+    21300164: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_86
+    21300166: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_87
+    21300168: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_88
+    21300170: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_89
+    21300172: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_90
+    21300174: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_92
+    21300176: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_93
+    21300178: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_94
+    21300180: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_95
+    21300182: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_96
+    21300184: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_97
+    21300186: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_98
+    21300188: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_99
+    21300190: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_100
+    21300192: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_101
+    21300194: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_102
+    21300196: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_103
+    21300198: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_104
+    21300200: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_105
+    21300202: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_106
+    21300204: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_107
+    21300206: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_109
+    21300208: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_110
+    21300210: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_111
+    21300212: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_112
+    21300214: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_113
+    21300216: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_114
+    21300218: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_115
+    21300220: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_116
+    21300222: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_117
+    21300224: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_118
+    21300226: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_119
+    21300228: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_120
+    21300230: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_121
+    21300232: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_122
+    21300234: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_123
+    21300236: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_124
+    21300238: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_125
+    21300240: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_126
+    21300242: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_127
+    21300244: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_128
+    21300246: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_129
+    21300248: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_130
+    21300250: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_131
+    21300252: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_132
+    21300254: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_133
+    21300256: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_134
+    21300258: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_135
+    21300260: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_136
+    21300262: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_137
+    21300264: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_138
+    21300266: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_139
+    21300268: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_140
+    21300270: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_141
+    21300272: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_142
+    21300274: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_143
+    21300276: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_144
+    21300278: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_145
+    21300280: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_146
+    21300282: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_147
+    21300284: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_148
+    21300286: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_149
+    21300288: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_150
+    21300290: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_151
+    21300292: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_152
+    21300294: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_153
+    21300296: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_154
+    21300298: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_155
+    21300300: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_156
+    21300302: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_157
+    21300304: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_158
+    21300306: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_159
+    21300308: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_160
+    21300310: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_161
+    21300312: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_162
+    21300314: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_163
+    21300316: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_164
+    21300318: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_165
+    21300320: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_166
+    21300322: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_167
+    21300324: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_168
+    21300326: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_169
+    21300328: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_170
+    21300330: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_171
+    21300332: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_172
+    21300334: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_173
+    21300336: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_174
+    21300338: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_175
+    21300340: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_176
+    21300342: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_177
+    21300344: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_178
+    21300346: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_80
+    21300348: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_91
+    21300350: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_179
+    21300352: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_34
+    21300354: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_180
+    21300356: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_14
+    21300358: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_15
+    21300360: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_181
+    21300362: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_182
+    21300364: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_183
+    21300366: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_184
+    21300368: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_185
+    21300370: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_186
+    21300372: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_187
+    21300374: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_188
+    21300376: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_189
+    21300378: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_190
+    21300380: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_191
+    21300382: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_192
+    21300384: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_193
+    21300386: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_194
+    21300388: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_195
+    21300390: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_196
+    21300392: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_197
+    21300394: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_198
+    21300396: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_199
+    21300398: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_200
+    21300400: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_201
+    21300402: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_202
+    21300404: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_203
+    21300406: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_204
+    21300408: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_205
+    21300410: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_206
+    21300412: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_207
+    21300414: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_208
+    21300416: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_209
+    21300418: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_210
+    21300420: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_211
+    21300422: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_212
+    21300424: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_213
+    21300426: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_214
+    21300428: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_215
+    21300430: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_216
+    21300432: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_217
+    21300434: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_218
+    21300436: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_219
+    21300438: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_220
+    21300440: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_221
+    21300442: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_222
+    21300444: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_108
+    21300446: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_223
+    21300448: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_224
+    21300450: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_225
+    21300452: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_226
+    21300454: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_227
+    21300456: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_228
+    21300458: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_229
+    21300460: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_230
+    21300462: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_231
+    21300464: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_232
+    21300466: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_233
+    21300468: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_234
+    21300470: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_235
+    21300472: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_236
+    21300474: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_237
+    21300476: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_238
+    21300478: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_239
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1935
+        width: 430
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1725
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1561
+        width: 87
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1927
+        width: 177
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1978
+        width: 178
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1955
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1903
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1844
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1956
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1952
+        width: 158
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1954
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 236
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1727
+        width: 155
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1710
+        width: 138
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1786
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1823
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1820
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1652
+        width: 258
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1375
+        width: 87
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1716
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1731
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1511
+        width: 168
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1555
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1486
+        width: 142
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1608
+        width: 166
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1487
+        width: 61
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1602
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1514
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 979
+        width: 91
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1500
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1372
+        width: 134
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1431
+        width: 62
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1558
+        width: 305
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1488
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 60
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1496
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1447
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1489
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1502
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1391
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1473
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1408
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1379
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1404
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1377
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1399
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1146
+        width: 99
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1292
+        width: 61
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1139
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1257
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1255
+        width: 148
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 946
+        width: 86
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1163
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1168
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1123
+        width: 100
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1295
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1041
+        width: 167
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1194
+        width: 216
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 955
+        width: 55
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1024
+        width: 177
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1126
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1126
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1148
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1056
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 983
+        width: 54
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1024
+        width: 254
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1061
+        width: 116
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 986
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 988
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 952
+        width: 410
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 948
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 716
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 879
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 616
+        width: 146
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 868
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 864
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 770
+        width: 194
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 862
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 644
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 795
+        width: 200
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 433
+        width: 60
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 776
+        width: 271
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 582
+        width: 205
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 624
+        width: 151
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 621
+        width: 61
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 618
+        width: 258
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 540
+        width: 118
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 682
+        width: 19
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 628
+        width: 145
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 694
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 574
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 549
+        width: 165
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 469
+        width: 256
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 430
+        width: 96
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 398
+        width: 76
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 267
+        width: 117
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 169
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 388
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 313
+        width: 120
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 460
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 471
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 472
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 488
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 476
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 468
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 118
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 89
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 339
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 323
+        width: 283
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 157
+        width: 119
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 220
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 219
+        width: 70
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 397
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_127
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_128
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 325
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_129
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 161
+        width: 142
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_130
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 279
+        width: 182
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_131
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 159
+        width: 117
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_132
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 73
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_133
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 269
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_134
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 240
+        width: 133
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_135
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 261
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_136
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 229
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_137
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 268
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_139
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_140
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 198
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_141
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 179
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 160
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_143
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 175
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_144
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 132
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_145
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 180
+        width: 268
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_146
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 135
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 262
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_149
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 179
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_150
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 76
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_151
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 163
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_152
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 126
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_153
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_154
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 87
+        width: 137
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_155
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 19
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_156
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2
+        width: 59
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_157
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 22
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_158
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_159
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_160
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_161
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 212
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_162
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 10
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_163
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_164
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1900
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_165
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1950
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_166
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1994
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_167
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1842
+        width: 89
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1514
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 60
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_170
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1055
+        width: 76
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_171
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1055
+        width: 77
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_172
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1347
+        width: 243
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 902
+        width: 236
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 166
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_175
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 535
+        width: 151
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_176
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 298
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_177
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 158
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_178
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 145
+        width: 39
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 889
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 759
+        width: 175
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_179
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 567
+        width: 64
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 567
+        width: 67
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_180
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1328
+        width: 123
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1847
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1906
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_181
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1375
+        width: 60
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_182
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1572
+        width: 216
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_183
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1584
+        width: 132
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_184
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1452
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_185
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1608
+        width: 186
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_186
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1703
+        width: 219
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_187
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1776
+        width: 101
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_188
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1727
+        width: 105
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_189
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1953
+        width: 299
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_190
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1907
+        width: 110
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_191
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1682
+        width: 73
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_192
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1712
+        width: 139
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_193
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1844
+        width: 302
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_194
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1895
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_195
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1734
+        width: 120
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_196
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1738
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_197
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1740
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_198
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1575
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_199
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1610
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_200
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1335
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_201
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1336
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_202
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1335
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_203
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1341
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_204
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1413
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_205
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1334
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_206
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1294
+        width: 543
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_207
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 989
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_208
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 917
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_209
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 570
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_210
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 218
+        width: 77
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_211
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 218
+        width: 75
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_212
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 269
+        width: 63
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_213
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 350
+        width: 80
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_214
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 678
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_215
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 716
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_216
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 442
+        width: 87
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_217
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 443
+        width: 69
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_218
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 348
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_219
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1460
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_220
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1333
+        width: 83
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_221
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1790
+        width: 29
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_222
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1495
+        width: 142
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_223
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 769
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_224
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1204
+        width: 232
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_225
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 912
+        width: 63
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_226
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1028
+        width: 113
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_227
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 853
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_228
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1047
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_229
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 938
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_230
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 867
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_231
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 880
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_232
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1162
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_233
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1138
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_234
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1156
+        width: 44
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_235
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 986
+        width: 73
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_236
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 982
+        width: 68
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_237
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 983
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_238
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 936
+        width: 284
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_239
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1093
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 507
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Crossroads (Group 1)-2048x2048-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1022
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

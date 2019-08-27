@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Arror
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e1e6a4a637bb4a54ab1ac9bf4d6e423e, type: 3}
+    - {fileID: 2800000, guid: 751ae6de034b5e246a9a67a8901abcfe, type: 3}
+    - {fileID: 2800000, guid: 975538f19a28a654cad73c58f244fbf6, type: 3}
+    - {fileID: 2800000, guid: 2fbc31860de250444aa68e10957ebd38, type: 3}
+    - {fileID: 2800000, guid: 74c2ceddf0a62784d869a155ec26aac8, type: 3}
+    - {fileID: 2800000, guid: 8eaa5f351c702a745b8bc7fe03f1474c, type: 3}
+    - {fileID: 2800000, guid: 9f891b3468e2efb4aab4424a09c83a32, type: 3}
+    - {fileID: 2800000, guid: b8621051db00c8d4ba3114480727bfd0, type: 3}
+    - {fileID: 2800000, guid: abeb6c2bedf03954b877b3bb445e3087, type: 3}
+    - {fileID: 2800000, guid: 535383f83570fa6488b98fd002949b8c, type: 3}
+    - {fileID: 2800000, guid: 0bf617320c3c12543a2efe8938f3e8e7, type: 3}
+    totalSpriteSurfaceArea: 78408
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b8621051db00c8d4ba3114480727bfd0, type: 3}
+  - {fileID: 21300000, guid: 0bf617320c3c12543a2efe8938f3e8e7, type: 3}
+  - {fileID: 21300000, guid: abeb6c2bedf03954b877b3bb445e3087, type: 3}
+  - {fileID: 21300000, guid: 535383f83570fa6488b98fd002949b8c, type: 3}
+  - {fileID: 21300000, guid: 9f891b3468e2efb4aab4424a09c83a32, type: 3}
+  - {fileID: 21300000, guid: 8eaa5f351c702a745b8bc7fe03f1474c, type: 3}
+  - {fileID: 21300000, guid: 74c2ceddf0a62784d869a155ec26aac8, type: 3}
+  - {fileID: 21300000, guid: 2fbc31860de250444aa68e10957ebd38, type: 3}
+  - {fileID: 21300000, guid: 751ae6de034b5e246a9a67a8901abcfe, type: 3}
+  - {fileID: 21300000, guid: 975538f19a28a654cad73c58f244fbf6, type: 3}
+  - {fileID: 21300000, guid: e1e6a4a637bb4a54ab1ac9bf4d6e423e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - main_menu_pointer_anim0007
+  - main_menu_pointer_anim0010
+  - main_menu_pointer_anim0008
+  - main_menu_pointer_anim0009
+  - main_menu_pointer_anim0006
+  - main_menu_pointer_anim0005
+  - main_menu_pointer_anim0004
+  - main_menu_pointer_anim0003
+  - main_menu_pointer_anim0001
+  - main_menu_pointer_anim0002
+  - main_menu_pointer_anim0000
+  m_Tag: Arror
+  m_IsVariant: 0

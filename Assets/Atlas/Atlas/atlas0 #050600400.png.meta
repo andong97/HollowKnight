@@ -1,0 +1,4691 @@
+fileFormatVersion: 2
+guid: c79901ee50d09ab4da636664611e96dc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'atlas0 #050600400_0'
+    21300002: 'atlas0 #050600400_1'
+    21300004: 'atlas0 #050600400_2'
+    21300006: 'atlas0 #050600400_3'
+    21300008: 'atlas0 #050600400_4'
+    21300010: 'atlas0 #050600400_5'
+    21300012: 'atlas0 #050600400_6'
+    21300014: 'atlas0 #050600400_7'
+    21300016: 'atlas0 #050600400_8'
+    21300018: 'atlas0 #050600400_9'
+    21300020: 'atlas0 #050600400_10'
+    21300022: 'atlas0 #050600400_11'
+    21300024: 'atlas0 #050600400_12'
+    21300026: 'atlas0 #050600400_13'
+    21300028: 'atlas0 #050600400_14'
+    21300030: 'atlas0 #050600400_15'
+    21300032: 'atlas0 #050600400_16'
+    21300034: 'atlas0 #050600400_17'
+    21300036: 'atlas0 #050600400_18'
+    21300038: 'atlas0 #050600400_19'
+    21300040: 'atlas0 #050600400_20'
+    21300042: 'atlas0 #050600400_21'
+    21300044: 'atlas0 #050600400_22'
+    21300046: 'atlas0 #050600400_23'
+    21300048: 'atlas0 #050600400_24'
+    21300050: 'atlas0 #050600400_25'
+    21300052: 'atlas0 #050600400_26'
+    21300054: 'atlas0 #050600400_27'
+    21300056: 'atlas0 #050600400_28'
+    21300058: 'atlas0 #050600400_29'
+    21300060: 'atlas0 #050600400_31'
+    21300062: 'atlas0 #050600400_32'
+    21300064: 'atlas0 #050600400_33'
+    21300066: 'atlas0 #050600400_34'
+    21300068: 'atlas0 #050600400_35'
+    21300070: 'atlas0 #050600400_36'
+    21300072: 'atlas0 #050600400_37'
+    21300074: 'atlas0 #050600400_38'
+    21300076: 'atlas0 #050600400_39'
+    21300078: 'atlas0 #050600400_40'
+    21300080: 'atlas0 #050600400_41'
+    21300082: 'atlas0 #050600400_42'
+    21300084: 'atlas0 #050600400_43'
+    21300086: 'atlas0 #050600400_44'
+    21300088: 'atlas0 #050600400_45'
+    21300090: 'atlas0 #050600400_46'
+    21300092: 'atlas0 #050600400_47'
+    21300094: 'atlas0 #050600400_48'
+    21300096: 'atlas0 #050600400_49'
+    21300098: 'atlas0 #050600400_50'
+    21300100: 'atlas0 #050600400_51'
+    21300102: 'atlas0 #050600400_52'
+    21300104: 'atlas0 #050600400_53'
+    21300106: 'atlas0 #050600400_54'
+    21300108: 'atlas0 #050600400_55'
+    21300110: 'atlas0 #050600400_56'
+    21300112: 'atlas0 #050600400_57'
+    21300114: 'atlas0 #050600400_58'
+    21300116: 'atlas0 #050600400_59'
+    21300118: 'atlas0 #050600400_60'
+    21300120: 'atlas0 #050600400_61'
+    21300122: 'atlas0 #050600400_62'
+    21300124: 'atlas0 #050600400_63'
+    21300126: 'atlas0 #050600400_64'
+    21300128: 'atlas0 #050600400_65'
+    21300130: 'atlas0 #050600400_66'
+    21300132: 'atlas0 #050600400_67'
+    21300134: 'atlas0 #050600400_68'
+    21300136: 'atlas0 #050600400_69'
+    21300138: 'atlas0 #050600400_70'
+    21300140: 'atlas0 #050600400_71'
+    21300142: 'atlas0 #050600400_72'
+    21300144: 'atlas0 #050600400_73'
+    21300146: 'atlas0 #050600400_74'
+    21300148: 'atlas0 #050600400_75'
+    21300150: 'atlas0 #050600400_76'
+    21300152: 'atlas0 #050600400_77'
+    21300154: 'atlas0 #050600400_78'
+    21300156: 'atlas0 #050600400_79'
+    21300158: 'atlas0 #050600400_80'
+    21300160: 'atlas0 #050600400_81'
+    21300162: 'atlas0 #050600400_82'
+    21300164: 'atlas0 #050600400_83'
+    21300166: 'atlas0 #050600400_84'
+    21300168: 'atlas0 #050600400_85'
+    21300170: 'atlas0 #050600400_86'
+    21300172: 'atlas0 #050600400_87'
+    21300174: 'atlas0 #050600400_88'
+    21300176: 'atlas0 #050600400_89'
+    21300178: 'atlas0 #050600400_90'
+    21300180: 'atlas0 #050600400_91'
+    21300182: 'atlas0 #050600400_92'
+    21300184: 'atlas0 #050600400_93'
+    21300186: 'atlas0 #050600400_94'
+    21300188: 'atlas0 #050600400_95'
+    21300190: 'atlas0 #050600400_96'
+    21300192: 'atlas0 #050600400_97'
+    21300194: 'atlas0 #050600400_98'
+    21300196: 'atlas0 #050600400_99'
+    21300198: 'atlas0 #050600400_100'
+    21300200: 'atlas0 #050600400_101'
+    21300202: 'atlas0 #050600400_102'
+    21300204: 'atlas0 #050600400_103'
+    21300206: 'atlas0 #050600400_104'
+    21300208: 'atlas0 #050600400_105'
+    21300210: 'atlas0 #050600400_106'
+    21300212: 'atlas0 #050600400_107'
+    21300214: 'atlas0 #050600400_108'
+    21300216: 'atlas0 #050600400_109'
+    21300218: 'atlas0 #050600400_110'
+    21300220: 'atlas0 #050600400_111'
+    21300222: 'atlas0 #050600400_112'
+    21300224: 'atlas0 #050600400_113'
+    21300226: 'atlas0 #050600400_114'
+    21300228: 'atlas0 #050600400_115'
+    21300230: 'atlas0 #050600400_116'
+    21300232: 'atlas0 #050600400_117'
+    21300234: 'atlas0 #050600400_118'
+    21300236: 'atlas0 #050600400_119'
+    21300238: 'atlas0 #050600400_120'
+    21300240: 'atlas0 #050600400_121'
+    21300242: 'atlas0 #050600400_122'
+    21300244: 'atlas0 #050600400_123'
+    21300246: 'atlas0 #050600400_124'
+    21300248: 'atlas0 #050600400_125'
+    21300250: 'atlas0 #050600400_126'
+    21300252: 'atlas0 #050600400_127'
+    21300254: 'atlas0 #050600400_128'
+    21300256: 'atlas0 #050600400_129'
+    21300258: 'atlas0 #050600400_130'
+    21300260: 'atlas0 #050600400_131'
+    21300262: 'atlas0 #050600400_132'
+    21300264: 'atlas0 #050600400_133'
+    21300266: 'atlas0 #050600400_134'
+    21300268: 'atlas0 #050600400_135'
+    21300270: 'atlas0 #050600400_136'
+    21300272: 'atlas0 #050600400_137'
+    21300274: 'atlas0 #050600400_138'
+    21300276: 'atlas0 #050600400_139'
+    21300278: 'atlas0 #050600400_140'
+    21300280: 'atlas0 #050600400_141'
+    21300282: 'atlas0 #050600400_142'
+    21300284: 'atlas0 #050600400_143'
+    21300286: 'atlas0 #050600400_144'
+    21300288: 'atlas0 #050600400_145'
+    21300290: 'atlas0 #050600400_146'
+    21300292: 'atlas0 #050600400_147'
+    21300294: 'atlas0 #050600400_148'
+    21300296: 'atlas0 #050600400_149'
+    21300298: 'atlas0 #050600400_150'
+    21300300: 'atlas0 #050600400_151'
+    21300302: 'atlas0 #050600400_152'
+    21300304: 'atlas0 #050600400_153'
+    21300306: 'atlas0 #050600400_154'
+    21300308: 'atlas0 #050600400_155'
+    21300310: 'atlas0 #050600400_156'
+    21300312: 'atlas0 #050600400_157'
+    21300314: 'atlas0 #050600400_158'
+    21300316: 'atlas0 #050600400_159'
+    21300318: 'atlas0 #050600400_160'
+    21300320: 'atlas0 #050600400_161'
+    21300322: 'atlas0 #050600400_162'
+    21300324: 'atlas0 #050600400_163'
+    21300326: 'atlas0 #050600400_164'
+    21300328: 'atlas0 #050600400_165'
+    21300330: 'atlas0 #050600400_166'
+    21300332: 'atlas0 #050600400_167'
+    21300334: 'atlas0 #050600400_168'
+    21300336: 'atlas0 #050600400_169'
+    21300338: 'atlas0 #050600400_170'
+    21300340: 'atlas0 #050600400_171'
+    21300342: 'atlas0 #050600400_172'
+    21300344: 'atlas0 #050600400_173'
+    21300346: 'atlas0 #050600400_174'
+    21300348: 'atlas0 #050600400_175'
+    21300350: 'atlas0 #050600400_176'
+    21300352: 'atlas0 #050600400_177'
+    21300354: 'atlas0 #050600400_178'
+    21300356: 'atlas0 #050600400_179'
+    21300358: 'atlas0 #050600400_180'
+    21300360: 'atlas0 #050600400_181'
+    21300362: 'atlas0 #050600400_182'
+    21300364: 'atlas0 #050600400_183'
+    21300366: 'atlas0 #050600400_184'
+    21300368: 'atlas0 #050600400_185'
+    21300370: 'atlas0 #050600400_186'
+    21300372: 'atlas0 #050600400_187'
+    21300374: 'atlas0 #050600400_188'
+    21300376: 'atlas0 #050600400_189'
+    21300378: 'atlas0 #050600400_190'
+    21300380: 'atlas0 #050600400_191'
+    21300382: 'atlas0 #050600400_192'
+    21300384: 'atlas0 #050600400_193'
+    21300386: 'atlas0 #050600400_194'
+    21300388: 'atlas0 #050600400_195'
+    21300390: 'atlas0 #050600400_196'
+    21300392: 'atlas0 #050600400_197'
+    21300394: 'atlas0 #050600400_198'
+    21300396: 'atlas0 #050600400_199'
+    21300398: 'atlas0 #050600400_200'
+    21300400: 'atlas0 #050600400_201'
+    21300402: 'atlas0 #050600400_202'
+    21300404: 'atlas0 #050600400_203'
+    21300406: 'atlas0 #050600400_204'
+    21300408: 'atlas0 #050600400_205'
+    21300410: 'atlas0 #050600400_206'
+    21300412: 'atlas0 #050600400_207'
+    21300414: 'atlas0 #050600400_208'
+    21300416: 'atlas0 #050600400_209'
+    21300418: 'atlas0 #050600400_210'
+    21300420: 'atlas0 #050600400_211'
+    21300422: 'atlas0 #050600400_212'
+    21300424: 'atlas0 #050600400_213'
+    21300426: 'atlas0 #050600400_214'
+    21300428: 'atlas0 #050600400_215'
+    21300430: 'atlas0 #050600400_216'
+    21300432: 'atlas0 #050600400_217'
+    21300434: 'atlas0 #050600400_218'
+    21300436: 'atlas0 #050600400_219'
+    21300438: 'atlas0 #050600400_220'
+    21300440: 'atlas0 #050600400_221'
+    21300442: 'atlas0 #050600400_222'
+    21300444: 'atlas0 #050600400_223'
+    21300446: 'atlas0 #050600400_224'
+    21300448: 'atlas0 #050600400_225'
+    21300450: 'atlas0 #050600400_226'
+    21300452: 'atlas0 #050600400_227'
+    21300454: 'atlas0 #050600400_228'
+    21300456: 'atlas0 #050600400_229'
+    21300458: 'atlas0 #050600400_230'
+    21300460: 'atlas0 #050600400_231'
+    21300462: 'atlas0 #050600400_232'
+    21300464: 'atlas0 #050600400_233'
+    21300466: 'atlas0 #050600400_234'
+    21300468: 'atlas0 #050600400_235'
+    21300470: 'atlas0 #050600400_236'
+    21300472: 'atlas0 #050600400_237'
+    21300474: 'atlas0 #050600400_238'
+    21300476: 'atlas0 #050600400_239'
+    21300478: 'atlas0 #050600400_240'
+    21300480: 'atlas0 #050600400_241'
+    21300482: 'atlas0 #050600400_242'
+    21300484: 'atlas0 #050600400_243'
+    21300486: 'atlas0 #050600400_244'
+    21300488: 'atlas0 #050600400_245'
+    21300490: 'atlas0 #050600400_246'
+    21300492: 'atlas0 #050600400_247'
+    21300494: 'atlas0 #050600400_248'
+    21300496: 'atlas0 #050600400_249'
+    21300498: 'atlas0 #050600400_250'
+    21300500: 'atlas0 #050600400_251'
+    21300502: 'atlas0 #050600400_252'
+    21300504: 'atlas0 #050600400_253'
+    21300506: 'atlas0 #050600400_254'
+    21300508: 'atlas0 #050600400_255'
+    21300510: 'atlas0 #050600400_256'
+    21300512: 'atlas0 #050600400_257'
+    21300514: 'atlas0 #050600400_258'
+    21300516: 'atlas0 #050600400_259'
+    21300518: 'atlas0 #050600400_260'
+    21300520: 'atlas0 #050600400_261'
+    21300522: 'atlas0 #050600400_262'
+    21300524: 'atlas0 #050600400_263'
+    21300526: 'atlas0 #050600400_264'
+    21300528: 'atlas0 #050600400_265'
+    21300530: 'atlas0 #050600400_266'
+    21300532: 'atlas0 #050600400_267'
+    21300534: 'atlas0 #050600400_268'
+    21300536: 'atlas0 #050600400_269'
+    21300538: 'atlas0 #050600400_270'
+    21300540: 'atlas0 #050600400_271'
+    21300542: 'atlas0 #050600400_272'
+    21300544: 'atlas0 #050600400_273'
+    21300546: 'atlas0 #050600400_274'
+    21300548: 'atlas0 #050600400_275'
+    21300550: 'atlas0 #050600400_276'
+    21300552: 'atlas0 #050600400_277'
+    21300554: 'atlas0 #050600400_278'
+    21300556: 'atlas0 #050600400_279'
+    21300558: 'atlas0 #050600400_280'
+    21300560: 'atlas0 #050600400_281'
+    21300562: 'atlas0 #050600400_282'
+    21300564: 'atlas0 #050600400_283'
+    21300566: 'atlas0 #050600400_284'
+    21300568: 'atlas0 #050600400_285'
+    21300570: 'atlas0 #050600400_286'
+    21300572: 'atlas0 #050600400_287'
+    21300574: 'atlas0 #050600400_288'
+    21300576: 'atlas0 #050600400_289'
+    21300578: 'atlas0 #050600400_290'
+    21300580: 'atlas0 #050600400_291'
+    21300582: 'atlas0 #050600400_292'
+    21300584: 'atlas0 #050600400_293'
+    21300586: 'atlas0 #050600400_30'
+    21300588: 'atlas0 #050600400_294'
+    21300590: 'atlas0 #050600400_295'
+    21300592: 'atlas0 #050600400_296'
+    21300594: 'atlas0 #050600400_297'
+    21300596: 'atlas0 #050600400_298'
+    21300598: 'atlas0 #050600400_299'
+    21300600: 'atlas0 #050600400_300'
+    21300602: 'atlas0 #050600400_301'
+    21300604: 'atlas0 #050600400_302'
+    21300606: 'atlas0 #050600400_303'
+    21300608: 'atlas0 #050600400_304'
+    21300610: 'atlas0 #050600400_305'
+    21300612: 'atlas0 #050600400_306'
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_0'
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1788
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_1'
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1768
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_2'
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1831
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_3'
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1560
+        width: 154
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_4'
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1614
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_5'
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1640
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_6'
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1617
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_7'
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1446
+        width: 239
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_8'
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1666
+        width: 57
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_9'
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1545
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_10'
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1604
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_11'
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1553
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_12'
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1526
+        width: 149
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_13'
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1503
+        width: 62
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_14'
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1543
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_15'
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1475
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_16'
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1444
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_17'
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1533
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_18'
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1524
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_19'
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1524
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_20'
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1477
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_21'
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1436
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_22'
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1444
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_23'
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1412
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_24'
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1491
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_25'
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1267
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_26'
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1398
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_27'
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1397
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_28'
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1448
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_29'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_31'
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1448
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_32'
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1344
+        width: 101
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_33'
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1413
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_34'
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1439
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_35'
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1404
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_36'
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1437
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_37'
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1448
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_38'
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1447
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_39'
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1448
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_40'
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1241
+        width: 94
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_41'
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1367
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_42'
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1344
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_43'
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1423
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_44'
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1312
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_45'
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1228
+        width: 87
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_46'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1393
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_47'
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1357
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_48'
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1414
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_49'
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1257
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_50'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1257
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_51'
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1255
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_52'
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1280
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_53'
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1341
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_54'
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1159
+        width: 96
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_55'
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1244
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_56'
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1330
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_57'
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1312
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_58'
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1331
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_59'
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1285
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_60'
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1300
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_61'
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1314
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_62'
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1332
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_63'
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1304
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_64'
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1321
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_65'
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1231
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_66'
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1258
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_67'
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1280
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_68'
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1296
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_69'
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1294
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_70'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1171
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_71'
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1267
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_72'
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_73'
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1284
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_74'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1196
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_75'
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1253
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_76'
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1258
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_77'
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1249
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_78'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1241
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_79'
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1252
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_80'
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1263
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_81'
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1238
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_82'
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1142
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_83'
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1230
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_84'
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1246
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_85'
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1148
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_86'
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1185
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_87'
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1174
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_88'
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1085
+        width: 102
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_89'
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1175
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_90'
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1227
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_91'
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1000
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_92'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1228
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_93'
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1226
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_94'
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1201
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_95'
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1151
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_96'
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1186
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_97'
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1228
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_98'
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1226
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_99'
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 996
+        width: 134
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_100'
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_101'
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1198
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_102'
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1183
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_103'
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1176
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_104'
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1099
+        width: 133
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_105'
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1040
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_106'
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1186
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_107'
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1173
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_108'
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1202
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_109'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1073
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_110'
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1072
+        width: 192
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_111'
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1167
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_112'
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1170
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_113'
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1076
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_114'
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1160
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_115'
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_116'
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1103
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_117'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1073
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_118'
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1058
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_119'
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1076
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_120'
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1134
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_121'
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1014
+        width: 161
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_122'
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_123'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 160
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_124'
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1122
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_125'
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1119
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_126'
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 944
+        width: 58
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_127'
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 974
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_128'
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1094
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_129'
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1084
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_130'
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1098
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_131'
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 995
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_132'
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1047
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_133'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 746
+        width: 50
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_134'
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 933
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_135'
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 944
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_136'
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 815
+        width: 211
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_137'
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1012
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_138'
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1065
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_139'
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1066
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_140'
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 935
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_141'
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1048
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_142'
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1021
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_143'
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 845
+        width: 60
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_144'
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1009
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_145'
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 702
+        width: 95
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_146'
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1023
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_147'
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1005
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_148'
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 917
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_149'
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 996
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_150'
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 876
+        width: 134
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_151'
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 938
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_152'
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 945
+        width: 12
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_153'
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 940
+        width: 8
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_154'
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 993
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_155'
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 964
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_156'
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 956
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_157'
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 956
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_158'
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 927
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_159'
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 924
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_160'
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 910
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_161'
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 838
+        width: 70
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_162'
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 743
+        width: 40
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_163'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 799
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_164'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 765
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_165'
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 940
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_166'
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 872
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_167'
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 927
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_168'
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 916
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_169'
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 915
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_170'
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 906
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_171'
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 912
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_172'
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 939
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_173'
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 924
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_174'
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 916
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_175'
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 831
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_176'
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 902
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_177'
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 836
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_178'
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 896
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_179'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 174
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_180'
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 747
+        width: 145
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_181'
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 868
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_182'
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 655
+        width: 143
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_183'
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 805
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_184'
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 873
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_185'
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 858
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_186'
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 852
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_187'
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 856
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_188'
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 774
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_189'
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 822
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_190'
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 840
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_191'
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 832
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_192'
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 832
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_193'
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 810
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_194'
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 819
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_195'
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 810
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_196'
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 812
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_197'
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 816
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_198'
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 780
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_199'
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 784
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_200'
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 752
+        width: 11
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_201'
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 786
+        width: 5
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_202'
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 762
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_203'
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 772
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_204'
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 789
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_205'
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 771
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_206'
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 678
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_207'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 492
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_208'
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 706
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_209'
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 718
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_210'
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 795
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_211'
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 748
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_212'
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 790
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_213'
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 434
+        width: 81
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_214'
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 734
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_215'
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 770
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_216'
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 758
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_217'
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 566
+        width: 173
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_218'
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 522
+        width: 48
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_219'
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_220'
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 739
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_221'
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 668
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_222'
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 728
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_223'
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 412
+        width: 165
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_224'
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 742
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_225'
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 707
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_226'
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 673
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_227'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 724
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_228'
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 704
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_229'
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 726
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_230'
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 530
+        width: 30
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_231'
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 596
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_232'
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 708
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_233'
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 707
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_234'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 338
+        width: 128
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_235'
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 692
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_236'
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 701
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_237'
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 683
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_238'
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 683
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_239'
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 688
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_240'
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 692
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_241'
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 609
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_242'
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 678
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_243'
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 596
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_244'
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 607
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_245'
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 580
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_246'
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 428
+        width: 144
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_247'
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 439
+        width: 146
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_248'
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 585
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_249'
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 575
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_250'
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 522
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_251'
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 503
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_252'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 365
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_253'
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 542
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_254'
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 542
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_255'
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 496
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_256'
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 492
+        width: 121
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_257'
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 361
+        width: 105
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_258'
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 200
+        width: 163
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_259'
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 446
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_260'
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 440
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_261'
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 487
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_262'
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 474
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_263'
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 379
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_264'
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 420
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_265'
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 372
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_266'
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 450
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_267'
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 456
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_268'
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 439
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_269'
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 439
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_270'
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 427
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_271'
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 422
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_272'
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 431
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_273'
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 198
+        width: 146
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_274'
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 396
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_275'
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 375
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_276'
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 187
+        width: 148
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_277'
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 198
+        width: 269
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_278'
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 365
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_279'
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 372
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_280'
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 379
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_281'
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 200
+        width: 336
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_282'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 187
+        width: 346
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_283'
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 357
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_284'
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 361
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_285'
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 336
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_286'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 509
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_287'
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_288'
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1339
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_289'
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1
+        width: 508
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_290'
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 42
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_291'
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1614
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_292'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_293'
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1380
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_30'
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1428
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_294'
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1466
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_295'
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1391
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_296'
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1389
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_297'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1299
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_298'
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1332
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_299'
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 573
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_300'
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 373
+        width: 214
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_301'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 251
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_302'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 830
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_303'
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1199
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_304'
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1138
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_305'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1220
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #050600400_306'
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1196
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

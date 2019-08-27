@@ -1,0 +1,2231 @@
+fileFormatVersion: 2
+guid: faa09f8c54692c64a9d92b914316d20d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_0
+    21300002: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_1
+    21300004: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_2
+    21300006: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_3
+    21300008: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_4
+    21300010: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_5
+    21300012: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_6
+    21300014: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_7
+    21300016: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_8
+    21300018: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_9
+    21300020: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_10
+    21300022: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_11
+    21300024: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_12
+    21300026: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_13
+    21300028: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_14
+    21300030: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_15
+    21300032: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_16
+    21300034: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_17
+    21300036: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_18
+    21300038: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_19
+    21300040: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_20
+    21300042: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_21
+    21300044: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_22
+    21300046: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_23
+    21300048: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_24
+    21300050: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_25
+    21300052: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_26
+    21300054: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_27
+    21300056: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_28
+    21300058: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_29
+    21300060: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_30
+    21300062: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_31
+    21300064: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_32
+    21300066: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_33
+    21300068: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_34
+    21300070: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_35
+    21300072: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_36
+    21300074: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_37
+    21300076: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_38
+    21300078: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_39
+    21300080: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_40
+    21300082: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_41
+    21300084: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_42
+    21300086: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_43
+    21300088: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_44
+    21300090: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_45
+    21300092: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_46
+    21300094: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_47
+    21300096: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_48
+    21300098: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_49
+    21300100: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_50
+    21300102: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_51
+    21300104: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_52
+    21300106: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_53
+    21300108: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_54
+    21300110: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_55
+    21300112: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_56
+    21300114: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_57
+    21300116: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_58
+    21300118: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_59
+    21300120: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_60
+    21300122: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_61
+    21300124: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_62
+    21300126: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_63
+    21300128: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_64
+    21300130: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_65
+    21300132: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_66
+    21300134: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_67
+    21300136: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_68
+    21300138: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_69
+    21300140: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_70
+    21300142: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_71
+    21300144: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_72
+    21300146: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_73
+    21300148: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_74
+    21300150: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_75
+    21300152: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_76
+    21300154: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_77
+    21300156: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_78
+    21300158: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_79
+    21300160: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_80
+    21300162: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_81
+    21300164: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_82
+    21300166: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_83
+    21300168: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_84
+    21300170: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_85
+    21300172: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_86
+    21300174: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_87
+    21300176: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_88
+    21300178: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_89
+    21300180: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_90
+    21300182: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_91
+    21300184: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_92
+    21300186: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_93
+    21300188: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_94
+    21300190: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_95
+    21300192: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_96
+    21300194: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_97
+    21300196: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_98
+    21300198: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_99
+    21300200: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_100
+    21300202: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_101
+    21300204: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_102
+    21300206: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_103
+    21300208: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_104
+    21300210: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_105
+    21300212: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_106
+    21300214: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_107
+    21300216: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_108
+    21300218: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_109
+    21300220: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_110
+    21300222: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_111
+    21300224: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_112
+    21300226: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_113
+    21300228: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_114
+    21300230: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_115
+    21300232: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_116
+    21300234: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_117
+    21300236: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_118
+    21300238: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_119
+    21300240: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_120
+    21300242: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_121
+    21300244: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_122
+    21300246: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_123
+    21300248: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_124
+    21300250: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_125
+    21300252: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_126
+    21300254: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_127
+    21300256: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_128
+    21300258: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_129
+    21300260: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_130
+    21300262: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_131
+    21300264: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_132
+    21300266: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_133
+    21300268: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_134
+    21300270: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_135
+    21300272: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_136
+    21300274: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_137
+    21300276: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_138
+    21300278: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_139
+    21300280: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_140
+    21300282: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_141
+    21300284: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_142
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3602
+        width: 132
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3371
+        width: 422
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3552
+        width: 162
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3758
+        width: 120
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3653
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 3570
+        width: 109
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3327
+        width: 209
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3350
+        width: 297
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 3436
+        width: 417
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 3519
+        width: 279
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3444
+        width: 250
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3145
+        width: 249
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3291
+        width: 424
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 3051
+        width: 150
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 3008
+        width: 412
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 3344
+        width: 115
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3011
+        width: 278
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3048
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3013
+        width: 230
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3240
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3151
+        width: 251
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2860
+        width: 262
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2777
+        width: 191
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2941
+        width: 252
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 3111
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 3128
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 3032
+        width: 146
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2966
+        width: 371
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 2827
+        width: 171
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 2960
+        width: 133
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 2759
+        width: 274
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3108
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2646
+        width: 230
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2738
+        width: 320
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2137
+        width: 1380
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2741
+        width: 292
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2895
+        width: 230
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2895
+        width: 327
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2769
+        width: 171
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2616
+        width: 366
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2957
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2965
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2830
+        width: 182
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2952
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2930
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2918
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2721
+        width: 459
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2481
+        width: 287
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2455
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2571
+        width: 294
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2610
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 2704
+        width: 148
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2637
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 2455
+        width: 166
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2684
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2349
+        width: 439
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2464
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2258
+        width: 154
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1613
+        width: 708
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2487
+        width: 186
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2533
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2299
+        width: 339
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1915
+        width: 459
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2219
+        width: 277
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2377
+        width: 228
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 2233
+        width: 214
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2241
+        width: 156
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1979
+        width: 251
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1889
+        width: 236
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1895
+        width: 308
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1907
+        width: 393
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1840
+        width: 246
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2053
+        width: 295
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1710
+        width: 697
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2031
+        width: 250
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2017
+        width: 222
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 2025
+        width: 136
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2094
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1521
+        width: 316
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1639
+        width: 427
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1534
+        width: 530
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1488
+        width: 397
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1199
+        width: 488
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1514
+        width: 300
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1563
+        width: 322
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1803
+        width: 314
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1213
+        width: 469
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1068
+        width: 795
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1351
+        width: 173
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1119
+        width: 296
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 887
+        width: 434
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1091
+        width: 438
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1375
+        width: 127
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 1277
+        width: 378
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1069
+        width: 454
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 600
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1216
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 760
+        width: 337
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 350
+        width: 389
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1095
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 753
+        width: 236
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1065
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 345
+        width: 536
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 853
+        width: 145
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 608
+        width: 350
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 574
+        width: 342
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 769
+        width: 354
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 768
+        width: 374
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 703
+        width: 620
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 747
+        width: 217
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 117
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 533
+        width: 257
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_112
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 412
+        width: 443
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 543
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 386
+        width: 292
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 473
+        width: 383
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 414
+        width: 323
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 284
+        width: 267
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 530
+        width: 321
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 598
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 200
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 235
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 0
+        width: 503
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 181
+        width: 319
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 99
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_127
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 225
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_128
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 396
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_129
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 322
+        width: 151
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_130
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 483
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_131
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 342
+        width: 165
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_132
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 311
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_133
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2
+        width: 300
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_134
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 544
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_135
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 232
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_136
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 0
+        width: 154
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_137
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 0
+        width: 452
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_138
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 148
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_141
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 0
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Bestiary_Full-4096x4096-fmt12_142
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 118
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

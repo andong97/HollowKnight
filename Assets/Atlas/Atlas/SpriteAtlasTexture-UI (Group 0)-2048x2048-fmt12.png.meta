@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 04c1cfbe62fa7de468cfdca7cef73c38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_0
+    21300002: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_1
+    21300004: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_2
+    21300006: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_3
+    21300008: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_4
+    21300010: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_5
+    21300012: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_6
+    21300014: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_7
+    21300016: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_8
+    21300018: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_9
+    21300020: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_10
+    21300022: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_11
+    21300024: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_12
+    21300026: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_13
+    21300028: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_14
+    21300030: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_15
+    21300032: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_16
+    21300034: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_17
+    21300036: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_18
+    21300038: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_19
+    21300040: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_20
+    21300042: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_21
+    21300044: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_22
+    21300046: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_23
+    21300048: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_24
+    21300050: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_25
+    21300052: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_26
+    21300054: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_27
+    21300056: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_28
+    21300058: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_29
+    21300060: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_30
+    21300062: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_31
+    21300064: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_32
+    21300066: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_33
+    21300068: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_34
+    21300070: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_35
+    21300072: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_36
+    21300074: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_37
+    21300076: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_38
+    21300078: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_39
+    21300080: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_40
+    21300082: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_41
+    21300084: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_42
+    21300086: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_43
+    21300088: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_44
+    21300090: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_45
+    21300092: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_46
+    21300094: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_47
+    21300096: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_48
+    21300098: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_49
+    21300100: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_50
+    21300102: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_51
+    21300104: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_52
+    21300106: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_53
+    21300108: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_54
+    21300110: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_55
+    21300112: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_56
+    21300114: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_57
+    21300116: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_58
+    21300118: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_59
+    21300120: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_60
+    21300122: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_61
+    21300124: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_62
+    21300126: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_63
+    21300128: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_64
+    21300130: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_65
+    21300132: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_66
+    21300134: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_67
+    21300136: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_68
+    21300138: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_69
+    21300140: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_70
+    21300142: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_71
+    21300144: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_72
+    21300146: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_73
+    21300148: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_74
+    21300150: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_75
+    21300152: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_76
+    21300154: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_77
+    21300156: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_78
+    21300158: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_79
+    21300160: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_80
+    21300162: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_81
+    21300164: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_82
+    21300166: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_83
+    21300168: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_84
+    21300170: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_85
+    21300172: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_86
+    21300174: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_87
+    21300176: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_88
+    21300178: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_89
+    21300180: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_90
+    21300182: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_91
+    21300184: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_92
+    21300186: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_93
+    21300188: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_94
+    21300190: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_95
+    21300192: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_96
+    21300194: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_97
+    21300196: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_98
+    21300198: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_99
+    21300200: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_100
+    21300202: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_101
+    21300204: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_102
+    21300206: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_103
+    21300208: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_104
+    21300210: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_105
+    21300212: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_106
+    21300214: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_107
+    21300216: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_108
+    21300218: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_109
+    21300220: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_110
+    21300222: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_111
+    21300224: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_112
+    21300226: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_113
+    21300228: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_114
+    21300230: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_115
+    21300232: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_116
+    21300234: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_117
+    21300236: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_118
+    21300238: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_119
+    21300240: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_120
+    21300242: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_121
+    21300244: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_122
+    21300246: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_123
+    21300248: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_124
+    21300250: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_125
+    21300252: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_126
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1886
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1866
+        width: 165
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1929
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1833
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1754
+        width: 369
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1728
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1633
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1677
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1749
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1762
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1705
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1747
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1698
+        width: 372
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1564
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1450
+        width: 181
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1686
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1588
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1595
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1563
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1464
+        width: 84
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1574
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1607
+        width: 141
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1347
+        width: 137
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1600
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1555
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 138
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1477
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1274
+        width: 147
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1440
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1365
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1476
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1362
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1478
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1468
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1368
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1443
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1216
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1311
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1200
+        width: 145
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1326
+        width: 145
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1217
+        width: 135
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1229
+        width: 255
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1249
+        width: 132
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1267
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1318
+        width: 231
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1223
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1136
+        width: 77
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1168
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1268
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1269
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1269
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1206
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1071
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1211
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 933
+        width: 157
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1132
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1104
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1108
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1129
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1123
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1031
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1060
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_62
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1000
+        width: 120
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_63
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1000
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_64
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 969
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_65
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1112
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_66
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 975
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_67
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 995
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_68
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 996
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_69
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1055
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_70
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1066
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_71
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1051
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_72
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 988
+        width: 153
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 779
+        width: 143
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 892
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_75
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 783
+        width: 159
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 910
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_77
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 463
+        width: 121
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_78
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 858
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_79
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 856
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_80
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 852
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_81
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 887
+        width: 132
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_82
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 856
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 850
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_84
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 896
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_85
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 860
+        width: 138
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_86
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 409
+        width: 112
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_87
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 452
+        width: 123
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_88
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 712
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_89
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 759
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_90
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 847
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_91
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 707
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_92
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 707
+        width: 133
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_93
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 743
+        width: 132
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 759
+        width: 173
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_95
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 730
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 759
+        width: 173
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_97
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 714
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_98
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 605
+        width: 159
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 224
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_100
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 473
+        width: 264
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_101
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 455
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_102
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 471
+        width: 158
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_103
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 550
+        width: 174
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_104
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 457
+        width: 299
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_105
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 586
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_106
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 588
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_107
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 525
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_108
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 317
+        width: 162
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 309
+        width: 748
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_110
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 257
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_111
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 45
+        width: 121
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_112
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 391
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_113
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 391
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_114
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 77
+        width: 108
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_115
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2
+        width: 108
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_116
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 231
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_117
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 386
+        width: 364
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 516
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_119
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 260
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_120
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 152
+        width: 162
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_121
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 0
+        width: 207
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_122
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2
+        width: 206
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_123
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 0
+        width: 174
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_124
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 608
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_125
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 523
+        width: 371
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-UI (Group 0)-2048x2048-fmt12_126
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 104
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

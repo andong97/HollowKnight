@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: 6157d2e6d88d6ff48aaee2ef0f79ddd4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'atlas0 #39100240_0'
+    21300002: 'atlas0 #39100240_3'
+    21300004: 'atlas0 #39100240_4'
+    21300006: 'atlas0 #39100240_5'
+    21300008: 'atlas0 #39100240_6'
+    21300010: 'atlas0 #39100240_7'
+    21300012: 'atlas0 #39100240_8'
+    21300014: 'atlas0 #39100240_11'
+    21300016: 'atlas0 #39100240_12'
+    21300018: 'atlas0 #39100240_13'
+    21300020: 'atlas0 #39100240_14'
+    21300022: 'atlas0 #39100240_16'
+    21300024: 'atlas0 #39100240_17'
+    21300026: 'atlas0 #39100240_18'
+    21300028: 'atlas0 #39100240_21'
+    21300030: 'atlas0 #39100240_22'
+    21300032: 'atlas0 #39100240_23'
+    21300034: 'atlas0 #39100240_24'
+    21300036: 'atlas0 #39100240_25'
+    21300038: 'atlas0 #39100240_27'
+    21300040: 'atlas0 #39100240_28'
+    21300042: 'atlas0 #39100240_29'
+    21300044: 'atlas0 #39100240_30'
+    21300046: 'atlas0 #39100240_33'
+    21300048: 'atlas0 #39100240_34'
+    21300050: 'atlas0 #39100240_35'
+    21300052: 'atlas0 #39100240_36'
+    21300054: 'atlas0 #39100240_38'
+    21300056: 'atlas0 #39100240_40'
+    21300058: 'atlas0 #39100240_41'
+    21300060: 'atlas0 #39100240_42'
+    21300062: 'atlas0 #39100240_43'
+    21300064: 'atlas0 #39100240_44'
+    21300066: 'atlas0 #39100240_45'
+    21300068: 'atlas0 #39100240_46'
+    21300070: 'atlas0 #39100240_51'
+    21300072: 'atlas0 #39100240_52'
+    21300074: 'atlas0 #39100240_53'
+    21300076: 'atlas0 #39100240_54'
+    21300078: 'atlas0 #39100240_55'
+    21300080: 'atlas0 #39100240_57'
+    21300082: 'atlas0 #39100240_58'
+    21300084: 'atlas0 #39100240_61'
+    21300086: 'atlas0 #39100240_62'
+    21300088: 'atlas0 #39100240_63'
+    21300090: 'atlas0 #39100240_64'
+    21300092: 'atlas0 #39100240_65'
+    21300094: 'atlas0 #39100240_66'
+    21300096: 'atlas0 #39100240_67'
+    21300098: 'atlas0 #39100240_68'
+    21300100: 'atlas0 #39100240_69'
+    21300102: 'atlas0 #39100240_70'
+    21300104: 'atlas0 #39100240_71'
+    21300106: 'atlas0 #39100240_72'
+    21300108: 'atlas0 #39100240_73'
+    21300110: 'atlas0 #39100240_74'
+    21300112: 'atlas0 #39100240_75'
+    21300114: 'atlas0 #39100240_76'
+    21300116: 'atlas0 #39100240_77'
+    21300118: 'atlas0 #39100240_78'
+    21300120: 'atlas0 #39100240_79'
+    21300122: 'atlas0 #39100240_80'
+    21300124: 'atlas0 #39100240_81'
+    21300126: 'atlas0 #39100240_82'
+    21300128: 'atlas0 #39100240_83'
+    21300130: 'atlas0 #39100240_84'
+    21300132: 'atlas0 #39100240_85'
+    21300134: 'atlas0 #39100240_89'
+    21300136: 'atlas0 #39100240_90'
+    21300138: 'atlas0 #39100240_91'
+    21300140: 'atlas0 #39100240_92'
+    21300142: 'atlas0 #39100240_93'
+    21300144: 'atlas0 #39100240_94'
+    21300146: 'atlas0 #39100240_95'
+    21300148: 'atlas0 #39100240_96'
+    21300150: 'atlas0 #39100240_97'
+    21300152: 'atlas0 #39100240_98'
+    21300154: 'atlas0 #39100240_99'
+    21300156: 'atlas0 #39100240_100'
+    21300158: 'atlas0 #39100240_102'
+    21300160: 'atlas0 #39100240_103'
+    21300162: 'atlas0 #39100240_104'
+    21300164: 'atlas0 #39100240_105'
+    21300166: 'atlas0 #39100240_106'
+    21300168: 'atlas0 #39100240_107'
+    21300170: 'atlas0 #39100240_108'
+    21300172: 'atlas0 #39100240_109'
+    21300174: 'atlas0 #39100240_112'
+    21300176: 'atlas0 #39100240_113'
+    21300178: 'atlas0 #39100240_114'
+    21300180: 'atlas0 #39100240_115'
+    21300182: 'atlas0 #39100240_116'
+    21300184: 'atlas0 #39100240_117'
+    21300186: 'atlas0 #39100240_118'
+    21300188: 'atlas0 #39100240_119'
+    21300190: 'atlas0 #39100240_120'
+    21300192: 'atlas0 #39100240_122'
+    21300194: 'atlas0 #39100240_123'
+    21300196: 'atlas0 #39100240_124'
+    21300198: 'atlas0 #39100240_125'
+    21300200: 'atlas0 #39100240_126'
+    21300202: 'atlas0 #39100240_127'
+    21300204: 'atlas0 #39100240_128'
+    21300206: 'atlas0 #39100240_129'
+    21300208: 'atlas0 #39100240_130'
+    21300210: 'atlas0 #39100240_131'
+    21300212: 'atlas0 #39100240_132'
+    21300214: 'atlas0 #39100240_133'
+    21300216: 'atlas0 #39100240_134'
+    21300218: 'atlas0 #39100240_135'
+    21300220: 'atlas0 #39100240_136'
+    21300222: 'atlas0 #39100240_137'
+    21300224: 'atlas0 #39100240_138'
+    21300226: 'atlas0 #39100240_139'
+    21300228: 'atlas0 #39100240_140'
+    21300230: 'atlas0 #39100240_141'
+    21300232: 'atlas0 #39100240_142'
+    21300234: 'atlas0 #39100240_143'
+    21300236: 'atlas0 #39100240_144'
+    21300238: 'atlas0 #39100240_145'
+    21300240: 'atlas0 #39100240_146'
+    21300242: 'atlas0 #39100240_147'
+    21300244: 'atlas0 #39100240_148'
+    21300246: 'atlas0 #39100240_149'
+    21300248: 'atlas0 #39100240_150'
+    21300250: 'atlas0 #39100240_151'
+    21300252: 'atlas0 #39100240_152'
+    21300254: 'atlas0 #39100240_153'
+    21300256: 'atlas0 #39100240_154'
+    21300258: 'atlas0 #39100240_155'
+    21300260: 'atlas0 #39100240_156'
+    21300262: 'atlas0 #39100240_157'
+    21300264: 'atlas0 #39100240_158'
+    21300266: 'atlas0 #39100240_159'
+    21300268: 'atlas0 #39100240_160'
+    21300270: 'atlas0 #39100240_161'
+    21300272: 'atlas0 #39100240_162'
+    21300274: 'atlas0 #39100240_163'
+    21300276: 'atlas0 #39100240_164'
+    21300278: 'atlas0 #39100240_165'
+    21300280: 'atlas0 #39100240_166'
+    21300282: 'atlas0 #39100240_167'
+    21300284: 'atlas0 #39100240_168'
+    21300286: 'atlas0 #39100240_169'
+    21300288: 'atlas0 #39100240_170'
+    21300290: 'atlas0 #39100240_171'
+    21300292: 'atlas0 #39100240_172'
+    21300294: 'atlas0 #39100240_173'
+    21300296: 'atlas0 #39100240_174'
+    21300298: 'atlas0 #39100240_175'
+    21300300: 'atlas0 #39100240_176'
+    21300302: 'atlas0 #39100240_177'
+    21300304: 'atlas0 #39100240_178'
+    21300306: 'atlas0 #39100240_180'
+    21300308: 'atlas0 #39100240_181'
+    21300310: 'atlas0 #39100240_182'
+    21300312: 'atlas0 #39100240_183'
+    21300314: 'atlas0 #39100240_184'
+    21300316: 'atlas0 #39100240_185'
+    21300318: 'atlas0 #39100240_186'
+    21300320: 'atlas0 #39100240_187'
+    21300322: 'atlas0 #39100240_188'
+    21300324: 'atlas0 #39100240_189'
+    21300326: 'atlas0 #39100240_190'
+    21300328: 'atlas0 #39100240_191'
+    21300330: 'atlas0 #39100240_192'
+    21300332: 'atlas0 #39100240_194'
+    21300334: 'atlas0 #39100240_195'
+    21300336: 'atlas0 #39100240_197'
+    21300338: 'atlas0 #39100240_198'
+    21300340: 'atlas0 #39100240_200'
+    21300342: 'atlas0 #39100240_201'
+    21300344: 'atlas0 #39100240_204'
+    21300346: 'atlas0 #39100240_205'
+    21300348: 'atlas0 #39100240_210'
+    21300350: 'atlas0 #39100240_211'
+    21300352: 'atlas0 #39100240_212'
+    21300354: 'atlas0 #39100240_213'
+    21300356: 'atlas0 #39100240_214'
+    21300358: 'atlas0 #39100240_215'
+    21300360: 'atlas0 #39100240_216'
+    21300362: 'atlas0 #39100240_217'
+    21300364: 'atlas0 #39100240_218'
+    21300366: 'atlas0 #39100240_219'
+    21300368: 'atlas0 #39100240_220'
+    21300370: 'atlas0 #39100240_222'
+    21300372: 'atlas0 #39100240_223'
+    21300374: 'atlas0 #39100240_224'
+    21300376: 'atlas0 #39100240_225'
+    21300378: 'atlas0 #39100240_226'
+    21300380: 'atlas0 #39100240_227'
+    21300382: 'atlas0 #39100240_228'
+    21300384: 'atlas0 #39100240_229'
+    21300386: 'atlas0 #39100240_230'
+    21300388: 'atlas0 #39100240_231'
+    21300390: 'atlas0 #39100240_232'
+    21300392: 'atlas0 #39100240_233'
+    21300394: 'atlas0 #39100240_234'
+    21300396: 'atlas0 #39100240_235'
+    21300398: 'atlas0 #39100240_237'
+    21300400: 'atlas0 #39100240_238'
+    21300402: 'atlas0 #39100240_240'
+    21300404: 'atlas0 #39100240_241'
+    21300406: 'atlas0 #39100240_242'
+    21300408: 'atlas0 #39100240_243'
+    21300410: 'atlas0 #39100240_245'
+    21300412: 'atlas0 #39100240_246'
+    21300414: 'atlas0 #39100240_247'
+    21300416: 'atlas0 #39100240_248'
+    21300418: 'atlas0 #39100240_251'
+    21300420: 'atlas0 #39100240_252'
+    21300422: 'atlas0 #39100240_253'
+    21300424: 'atlas0 #39100240_254'
+    21300426: 'atlas0 #39100240_255'
+    21300428: 'atlas0 #39100240_256'
+    21300430: 'atlas0 #39100240_258'
+    21300432: 'atlas0 #39100240_259'
+    21300434: 'atlas0 #39100240_260'
+    21300436: 'atlas0 #39100240_261'
+    21300438: 'atlas0 #39100240_264'
+    21300440: 'atlas0 #39100240_265'
+    21300442: 'atlas0 #39100240_266'
+    21300444: 'atlas0 #39100240_268'
+    21300446: 'atlas0 #39100240_269'
+    21300448: 'atlas0 #39100240_270'
+    21300450: 'atlas0 #39100240_271'
+    21300452: 'atlas0 #39100240_272'
+    21300454: 'atlas0 #39100240_273'
+    21300456: 'atlas0 #39100240_274'
+    21300458: 'atlas0 #39100240_275'
+    21300460: 'atlas0 #39100240_279'
+    21300462: 'atlas0 #39100240_281'
+    21300464: 'atlas0 #39100240_282'
+    21300466: 'atlas0 #39100240_283'
+    21300468: 'atlas0 #39100240_284'
+    21300470: 'atlas0 #39100240_285'
+    21300472: 'atlas0 #39100240_286'
+    21300474: 'atlas0 #39100240_287'
+    21300476: 'atlas0 #39100240_288'
+    21300478: 'atlas0 #39100240_289'
+    21300480: 'atlas0 #39100240_291'
+    21300482: 'atlas0 #39100240_294'
+    21300484: 'atlas0 #39100240_295'
+    21300486: 'atlas0 #39100240_296'
+    21300488: 'atlas0 #39100240_297'
+    21300490: 'atlas0 #39100240_298'
+    21300492: 'atlas0 #39100240_299'
+    21300494: 'atlas0 #39100240_300'
+    21300496: 'atlas0 #39100240_301'
+    21300498: 'atlas0 #39100240_302'
+    21300500: 'atlas0 #39100240_303'
+    21300502: 'atlas0 #39100240_304'
+    21300504: 'atlas0 #39100240_305'
+    21300506: 'atlas0 #39100240_306'
+    21300508: 'atlas0 #39100240_307'
+    21300510: 'atlas0 #39100240_308'
+    21300512: 'atlas0 #39100240_309'
+    21300514: 'atlas0 #39100240_310'
+    21300516: 'atlas0 #39100240_311'
+    21300518: 'atlas0 #39100240_312'
+    21300520: 'atlas0 #39100240_313'
+    21300522: 'atlas0 #39100240_314'
+    21300524: 'atlas0 #39100240_315'
+    21300526: 'atlas0 #39100240_316'
+    21300528: 'atlas0 #39100240_317'
+    21300530: 'atlas0 #39100240_318'
+    21300532: 'atlas0 #39100240_319'
+    21300534: 'atlas0 #39100240_320'
+    21300536: 'atlas0 #39100240_321'
+    21300538: 'atlas0 #39100240_322'
+    21300540: 'atlas0 #39100240_323'
+    21300542: 'atlas0 #39100240_324'
+    21300544: 'atlas0 #39100240_325'
+    21300546: 'atlas0 #39100240_326'
+    21300548: 'atlas0 #39100240_327'
+    21300550: 'atlas0 #39100240_328'
+    21300552: 'atlas0 #39100240_329'
+    21300554: 'atlas0 #39100240_330'
+    21300556: 'atlas0 #39100240_331'
+    21300558: 'atlas0 #39100240_332'
+    21300560: 'atlas0 #39100240_333'
+    21300562: 'atlas0 #39100240_334'
+    21300564: 'atlas0 #39100240_335'
+    21300566: 'atlas0 #39100240_336'
+    21300568: 'atlas0 #39100240_337'
+    21300570: 'atlas0 #39100240_338'
+    21300572: 'atlas0 #39100240_339'
+    21300574: 'atlas0 #39100240_340'
+    21300576: 'atlas0 #39100240_341'
+    21300578: 'atlas0 #39100240_342'
+    21300580: 'atlas0 #39100240_343'
+    21300582: 'atlas0 #39100240_344'
+    21300584: 'atlas0 #39100240_345'
+    21300586: 'atlas0 #39100240_346'
+    21300588: 'atlas0 #39100240_347'
+    21300590: 'atlas0 #39100240_348'
+    21300592: 'atlas0 #39100240_349'
+    21300594: 'atlas0 #39100240_350'
+    21300596: 'atlas0 #39100240_351'
+    21300598: 'atlas0 #39100240_352'
+    21300600: 'atlas0 #39100240_353'
+    21300602: 'atlas0 #39100240_354'
+    21300604: 'atlas0 #39100240_355'
+    21300606: 'atlas0 #39100240_356'
+    21300608: 'atlas0 #39100240_357'
+    21300610: 'atlas0 #39100240_358'
+    21300612: 'atlas0 #39100240_359'
+    21300614: 'atlas0 #39100240_360'
+    21300616: 'atlas0 #39100240_361'
+    21300618: 'atlas0 #39100240_362'
+    21300620: 'atlas0 #39100240_363'
+    21300622: 'atlas0 #39100240_364'
+    21300624: 'atlas0 #39100240_365'
+    21300626: 'atlas0 #39100240_366'
+    21300628: 'atlas0 #39100240_367'
+    21300630: 'atlas0 #39100240_368'
+    21300632: 'atlas0 #39100240_369'
+    21300634: 'atlas0 #39100240_370'
+    21300636: 'atlas0 #39100240_371'
+    21300638: 'atlas0 #39100240_372'
+    21300640: 'atlas0 #39100240_373'
+    21300642: 'atlas0 #39100240_374'
+    21300644: 'atlas0 #39100240_375'
+    21300646: 'atlas0 #39100240_376'
+    21300648: 'atlas0 #39100240_377'
+    21300650: 'atlas0 #39100240_378'
+    21300652: 'atlas0 #39100240_379'
+    21300654: 'atlas0 #39100240_380'
+    21300656: 'atlas0 #39100240_381'
+    21300658: 'atlas0 #39100240_382'
+    21300660: 'atlas0 #39100240_383'
+    21300662: 'atlas0 #39100240_384'
+    21300664: 'atlas0 #39100240_385'
+    21300666: 'atlas0 #39100240_386'
+    21300668: 'atlas0 #39100240_387'
+    21300670: 'atlas0 #39100240_388'
+    21300672: 'atlas0 #39100240_389'
+    21300674: 'atlas0 #39100240_390'
+    21300676: 'atlas0 #39100240_391'
+    21300678: 'atlas0 #39100240_392'
+    21300680: 'atlas0 #39100240_393'
+    21300682: 'atlas0 #39100240_394'
+    21300684: 'atlas0 #39100240_395'
+    21300686: 'atlas0 #39100240_396'
+    21300688: 'atlas0 #39100240_397'
+    21300690: 'atlas0 #39100240_398'
+    21300692: 'atlas0 #39100240_400'
+    21300694: 'atlas0 #39100240_401'
+    21300696: 'atlas0 #39100240_402'
+    21300698: 'atlas0 #39100240_403'
+    21300700: 'atlas0 #39100240_404'
+    21300702: 'atlas0 #39100240_405'
+    21300704: 'atlas0 #39100240_406'
+    21300706: 'atlas0 #39100240_407'
+    21300708: 'atlas0 #39100240_408'
+    21300710: 'atlas0 #39100240_409'
+    21300712: 'atlas0 #39100240_410'
+    21300714: 'atlas0 #39100240_411'
+    21300716: 'atlas0 #39100240_412'
+    21300718: 'atlas0 #39100240_413'
+    21300720: 'atlas0 #39100240_414'
+    21300722: 'atlas0 #39100240_415'
+    21300724: 'atlas0 #39100240_416'
+    21300726: 'atlas0 #39100240_417'
+    21300728: 'atlas0 #39100240_418'
+    21300730: 'atlas0 #39100240_419'
+    21300732: 'atlas0 #39100240_420'
+    21300734: 'atlas0 #39100240_421'
+    21300736: 'atlas0 #39100240_422'
+    21300738: 'atlas0 #39100240_423'
+    21300740: 'atlas0 #39100240_424'
+    21300742: 'atlas0 #39100240_425'
+    21300744: 'atlas0 #39100240_426'
+    21300746: 'atlas0 #39100240_427'
+    21300748: 'atlas0 #39100240_428'
+    21300750: 'atlas0 #39100240_429'
+    21300752: 'atlas0 #39100240_430'
+    21300754: 'atlas0 #39100240_431'
+    21300756: 'atlas0 #39100240_432'
+    21300758: 'atlas0 #39100240_433'
+    21300760: 'atlas0 #39100240_434'
+    21300762: 'atlas0 #39100240_435'
+    21300764: 'atlas0 #39100240_436'
+    21300766: 'atlas0 #39100240_437'
+    21300768: 'atlas0 #39100240_438'
+    21300770: 'atlas0 #39100240_439'
+    21300772: 'atlas0 #39100240_440'
+    21300774: 'atlas0 #39100240_442'
+    21300776: 'atlas0 #39100240_443'
+    21300778: 'atlas0 #39100240_444'
+    21300780: 'atlas0 #39100240_445'
+    21300782: 'atlas0 #39100240_446'
+    21300784: 'atlas0 #39100240_447'
+    21300786: 'atlas0 #39100240_448'
+    21300788: 'atlas0 #39100240_1'
+    21300790: 'atlas0 #39100240_2'
+    21300792: 'atlas0 #39100240_9'
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_3'
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1980
+        width: 607
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_4'
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1913
+        width: 1083
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_6'
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1969
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_7'
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1895
+        width: 1011
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_11'
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1805
+        width: 830
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_14'
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1794
+        width: 1034
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_21'
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1717
+        width: 776
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_24'
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1676
+        width: 1004
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_25'
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1701
+        width: 933
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_28'
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1765
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_33'
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1627
+        width: 675
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_44'
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1556
+        width: 1004
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_51'
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1539
+        width: 524
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_58'
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1485
+        width: 1042
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_69'
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1431
+        width: 888
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_71'
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1449
+        width: 442
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_100'
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 1313
+        width: 686
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_113'
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1361
+        width: 274
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_120'
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1288
+        width: 738
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_149'
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1193
+        width: 651
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_151'
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1271
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_194'
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1123
+        width: 734
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_195'
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1183
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_197'
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1092
+        width: 734
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_198'
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 1147
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_204'
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1093
+        width: 492
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_220'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 1195
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_237'
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1065
+        width: 373
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_238'
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1032
+        width: 724
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_255'
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1045
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_266'
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 925
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_270'
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 904
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_288'
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 687
+        width: 213
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_301'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 1133
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_302'
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 826
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_304'
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 668
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_311'
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 592
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_313'
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 630
+        width: 129
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_321'
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 659
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_328'
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 599
+        width: 141
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_329'
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 592
+        width: 285
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_338'
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 613
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_339'
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 595
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_342'
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 595
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_348'
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 421
+        width: 319
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_354'
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 415
+        width: 213
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_355'
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 419
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_360'
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 534
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_377'
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 470
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_385'
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 249
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_386'
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 415
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_388'
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 211
+        width: 333
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_398'
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 363
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_400'
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 211
+        width: 256
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_417'
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 249
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_418'
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 211
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_427'
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 0
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_430'
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 0
+        width: 85
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_445'
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 0
+        width: 77
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_1'
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 820
+        width: 123
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_2'
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 818
+        width: 114
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_0'
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 893
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_9'
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 1036
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_5'
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 847
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'atlas0 #39100240_8'
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1150
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
